@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/syedaatika/b7bcde26-11dc-4f4f-9f45-646e10edb31b/767b2499-02c6-482f-bb45-c8adf226a61f/_apis/work/boardbadge/b4977c48-75a0-44f6-b4e1-783e41206341)](https://dev.azure.com/syedaatika/b7bcde26-11dc-4f4f-9f45-646e10edb31b/_boards/board/t/767b2499-02c6-482f-bb45-c8adf226a61f/Microsoft.RequirementCategory)
 # facemap <img src="facemap/mouse.png" width="200" title="lilmouse" alt="lilmouse" align="right" vspace = "50">
 
 GUI for processing videos of rodents, implemented in python and MATLAB. Works for grayscale and RGB movies. Can process multi-camera videos. Some example movies to test the GUI on are located [here](https://drive.google.com/open?id=1cRWCDl8jxWToz50dCX1Op-dHcAC-ttto). You can save the output from both the python and matlab versions as a matlab file with a checkbox in the GUI (if you'd like to use the python version - it has a better GUI).
